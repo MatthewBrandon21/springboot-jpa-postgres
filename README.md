@@ -29,7 +29,7 @@ Open in your java IDE
 
 Sync Maven for depencency
 
-Run app and automatically migrate the database
+Run app and automatically migrate the database (http://localhost:8080/
 ## API Reference (Applied for all crud function)
 
 #### Create Product
