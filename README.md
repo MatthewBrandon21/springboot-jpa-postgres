@@ -29,6 +29,8 @@ Open in your java IDE
 
 Sync Maven for depencency
 
+Set your database connection on /src/main/resources/application.properties
+
 Run app and automatically migrate the database (http://localhost:8080/)
 ## API Reference (Applied for all crud function)
 
